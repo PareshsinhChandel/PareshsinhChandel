@@ -3,7 +3,7 @@
 🚀 Currently mastering HTML, CSS, JavaScript, and Angular 17.
 👨‍💻 Exploring the world of Frontend Development.
 
-Let's connect the explore the world of Web development 🌎
+Let's connect and explore the world of Web Development 🌎
 
 <!---
 PareshsinhChandel/PareshsinhChandel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
